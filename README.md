@@ -38,5 +38,5 @@ Robotics |
 Arduino | ESP32 | Python | C | HTML | CSS | JavaScript | Figma | Canva
 
 ### Connect with me  
-[LinkedIn](linkedin.com/in/vaibhavi123)
+[LinkedIn](https://linkedin.com/in/vaibhavi123)
 
